@@ -3,3 +3,5 @@ first part
 second part
 
 new part for feature branch
+
+one more commit for branch feature
